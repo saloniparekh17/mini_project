@@ -2,7 +2,8 @@ Class EvenOdd
 {
 	public static void main(String a[])
 	{
-		int n=9;
+		System.out.println("Output of Preogram is:");
+		int n=20;
 		if(n%2==0)
 			System.out.println(n + "is an even number");
 		else
