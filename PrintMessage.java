@@ -1,6 +1,6 @@
 class PrintMessage
 {
-	public static void main(String a[])
+	public static void main(String args[])
 	{
 		int num=7;
 		if (num%3 == 0)
