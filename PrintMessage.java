@@ -1,8 +1,8 @@
 class PrintMessage
 {
-	public static void main(String args[])
+	public static void main(String a[])
 	{
-		int num=10;
+		int num=7;
 		if (num%3 == 0)
 			System.out.println(num+" is divisible by 3");
 		else if(num%5==0)
