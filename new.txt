@@ -1,2 +1,6 @@
 Hello,
 My name is farheen and this is the new file.
+<<<<<<< HEAD
+adding new changes to the file.
+=======
+>>>>>>> 54f6cfd8a3b2215d21bfb4439907bc680f7e9204
